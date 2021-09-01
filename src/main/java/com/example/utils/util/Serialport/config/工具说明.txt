@@ -1,0 +1,1 @@
+rxtxParallel.dll，rxtxSerial.dll 这两个文件复制到 C:\Windows\System32
